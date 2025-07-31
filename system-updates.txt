@@ -1,0 +1,28 @@
+System Updates (Additional)
+
+===== Added Tables =====
+- Products
+- Wifi Vouchers
+-
+
+===== Updated Tables =====
+- Rooms
+	- Added Price Column
+	- 
+
+===== Updated Pages =====
+- Frontend
+	- User Index
+	- User Account
+	- User Transactions
+	- User Add Products/WiFi
+
+- Admin
+	- Product
+		- Add/Edit Products
+		- View Products
+	- WiFi Vouchers
+		- Add/Import WiFi Vouchers
+		- View WiFi Vouchers
+	- Reports
+		- 
